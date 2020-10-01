@@ -4,3 +4,4 @@ Attendnace:
 2. janek-present
 3. antonio-present
 4. celina-present
+5. max-present
