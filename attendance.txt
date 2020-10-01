@@ -3,3 +3,4 @@ Attendnace:
 1. meina-present
 2. janek-present
 3. antonio-present
+4. celina-present
