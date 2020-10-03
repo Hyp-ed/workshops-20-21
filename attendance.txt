@@ -11,3 +11,4 @@ Attendnace:
 9. atte-present
 10. karthik-present
 11. bence-present
+12. sury-present
