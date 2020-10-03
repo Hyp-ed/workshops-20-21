@@ -1,0 +1,7 @@
+Hi!
+My name is Suryansh (Sury), a 2nd year direct entry student studying pure Comp Sci.
+Last year I did a year long internship at a medical robotics company based in Cambridge,
+which was pretty awesome!
+
+I like table tennis (although I may not be amazing at it), and am interested in data
+science and more analytical based computer science.
