@@ -16,4 +16,4 @@ Attendnace:
 14. flori-present
 15. Yining-present
 16. efe-present
-
+17. aleksander-present
